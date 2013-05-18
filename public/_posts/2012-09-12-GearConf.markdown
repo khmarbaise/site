@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The Second Lecture"
-date:   2013-09-22 18:39:28
-categories: GearConf
-lecture: true
----
-
-The second lecture i did.
