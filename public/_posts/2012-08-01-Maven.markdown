@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Maven Lecture"
+date:   2013-05-18 18:39:28
+categories: unknown
+lecture: true
+---
+
+The first lecture i did.
