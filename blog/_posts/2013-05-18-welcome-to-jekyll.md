@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2013-05-18 18:39:28
+tags:   Maven, News
 category: jekyll update
 ---
 

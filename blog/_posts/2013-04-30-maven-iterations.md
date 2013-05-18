@@ -2,6 +2,7 @@
 layout: post
 title:  "Iterations and Mavne? Not possible?"
 date:   2013-05-18 18:39:28
+tags:   Maven, Source Code, Tests, News
 category: Maven
 ---
 
