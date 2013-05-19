@@ -9,7 +9,6 @@ post-type: lecture
 Auf der 3. Subversion Konferenz hatte ich das Vergn&uuml;gen insgesamt vier Vortr&auml;ge halten zu d&uuml;fen.
 
 
-
 * #Versionierung in Java#
   SVNKit ist in vielen Anwendungen wie z.B. Eclipse vertreten und erm&ouml;glicht mit Java den Zugriff auf 
   Subversion Repositories und die Nutzung von Arbeitskopien. Aber wie funktioniert das? 
