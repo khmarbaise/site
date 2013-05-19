@@ -1,4 +1,4 @@
 name: Your New Jekyll Site
 pygments: true
-limit_posts: 5
+#limit_posts: 5
 lsi:         false
