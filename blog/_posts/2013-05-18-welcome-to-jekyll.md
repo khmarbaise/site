@@ -4,6 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2013-05-18 18:39:28
 tags:   Maven, News
 category: jekyll update
+post-type: blog
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

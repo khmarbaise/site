@@ -7,7 +7,7 @@ title: The Blog
   <h1>My Blog</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      {% if post.lecture != true %}
+      {% if post.post-type == 'blog' %}
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
       {{ tag_cloud }}
