@@ -65,7 +65,3 @@ If you need you can execute several plugins as well. Just use an
 extra pluginExecutor for each of your plugins. So in other words: 
 Iteration or foreach in Maven is solved.
 
-[github-iterator-maven-plugin]: http://khmarbaise.github.com/iterator-maven-plugin/ "Iterator Maven Plugin"
-[github-iterator-maven-plugin-issues]: https://github.com/khmarbaise/iterator-maven-plugin/issues "Issues on GitHub"
-[oss-staging-repository]: https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660 "staging repository"
-[maven-assembly-plugin]: http://maven.apache.org/plugins/maven-assembly-plugin/ "The Maven Assembly Plugin"
