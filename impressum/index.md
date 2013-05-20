@@ -3,8 +3,6 @@ layout: impressum
 title:  "Impressum"
 ---
 
-Impressum
-=========
 Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den
 Domains <a href="http://www.soebes.de">www.soebes.de</a>,
 <a href="http://www.soebes.com">www.soebes.com</a>,
@@ -24,7 +22,7 @@ laut dem <a href="http://netlaw.de/gesetze/tdg.htm" target="_blank" title="Geset
     Dipl.Ing.(FH) Karl Heinz Marbaise
 
     Hauptstr. 177
-    52146 W&uuml;rselen
+    52146 Würselen
 
     Telefon  :     02405 / 415 893
     EMail    :     <a href="mailto:gf@soebes.de">gf@soebes.de</a>
