@@ -1,4 +1,9 @@
 
+[git]: http://http://git-scm.com "Git"
+[subversion]: http://subversion.apache.org "Subversion"
+[maven]: http://maven.apache.org "Maven"
+[jenkins]: http://jenkins-ci.org "Jenkins"
+
 [oss-staging-repository]: https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660 "staging repository"
 
 [github-iterator-maven-plugin]: http://khmarbaise.github.com/iterator-maven-plugin/ "Iterator Maven Plugin"
