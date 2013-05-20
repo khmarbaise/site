@@ -9,10 +9,12 @@ post-type: blog
 
 During my experiences with Maven I had a few moments where I wished 
 having some kind of iterations to go over a list of whatever (servers, 
-environments etc.). After some thinking about the problem i have 
+environments etc.). 
+
+After some thinking about the problem I have 
 decided to write my own plugin which will solve the problem. And now I 
 have created such [plugin][github-iterator-maven-plugin]. Currently the
- plugin can be used by using it from the [staging repository][oss-staging-repository]
+plugin can be used by using it from the [staging repository][oss-staging-repository]
 After some feedback i will release it to Maven central. If you find 
 some problems with the plugin you can create a [ticket on github][github-iterator-maven-plugin-issues]
 or write an <a href="mailto:mavenplugin@soebes.de">email to me</a>. You 
