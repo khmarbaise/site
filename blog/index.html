@@ -9,7 +9,8 @@ title: The Blog
     {% for post in site.posts %}
       {% if post.post-type == 'blog' %}
         <li>
-            <span>{{ post.date | date_to_string }}</span> {{ post.excerpt }} <a href="{{ post.url }}">&nbsp;mehr lesen...</a> 
+            <span>{{ post.date | date_to_string }}</span>
+            <p>{{ post.excerpt }}<a href="{{ post.url }}">&nbsp;mehr lesen...</a></p>
         </li>
       {% endif %}
       {{ tag_cloud }}
