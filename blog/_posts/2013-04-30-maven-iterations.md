@@ -52,7 +52,7 @@ The following code:
             <goal>single</goal>
             <configuration>
               <descriptors>
-                <descriptor>${project.basedir}/<sub>item</sub>.xml</descriptor>
+                <descriptor>${project.basedir}/@item@.xml</descriptor>
               </descriptors>
             </configuration>
           </pluginExecutor>
