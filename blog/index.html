@@ -10,7 +10,7 @@ title: The Blog
       {% if post.post-type == 'blog' %}
         <li>
             <span>{{ post.date | date_to_string }}</span>
-            <p>{{ post.excerpt }}<a href="{{ post.url }}">&nbsp;mehr lesen...</a></p>
+            {{ post.excerpt }}<a href="{{ post.url }}">&nbsp;mehr lesen...</a>
         </li>
       {% endif %}
       {{ tag_cloud }}
