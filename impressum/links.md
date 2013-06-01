@@ -26,7 +26,7 @@ keinen einfluss.
 Wir sind aber sehr dankbar für einen Hinweis auf einen Link bzw. Seite
 dessen Inhalte sich ge&auml;ndert haben oder die rechtliche
 Belange tangieren. Ein solchen Hinweis, können Sie mir
-auf <a href="mailto:<webmasteremail>">elektronischem Weg</a> als
+auf <a href="mailto:webmaster@soebes.de">elektronischem Weg</a> als
 auch auf postalischem Wege übermitteln.
 
 gez. Software Entwicklungs- und Beratungs Service.

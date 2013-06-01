@@ -8,5 +8,5 @@ post-type: blog
 ---
 Nach dem nun einige Zeit vergangen ist, gibt es nun eine neue 
 <a href="http://maven.apache.org/docs/3.0.5/release-notes.html">Release von Maven</a>. 
-Der <a href="https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&version=19088">ChangeLog 
+Der <a href="https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&amp;version=19088">ChangeLog 
 ist in diesem Falle recht übersichtlich</a>.
