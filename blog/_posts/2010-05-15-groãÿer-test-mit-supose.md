@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GroÃŸer Test mit SupoSE"
+title: "Großer Test mit SupoSE"
 date: 2010-05-15 20:04:32
 tags: SKM,Neuigkeiten,SupoSE
 categories: SKM,Neuigkeiten,SupoSE
@@ -15,6 +15,6 @@ This is an average of 2,132 revisions/second.
            </li>
      </ul>
   </li>
-  <li>GrÃ¶ÃŸe des Indizes nach dem Scan: 61.797.883.970 Bytes</li>
+  <li>Größe des Indizes nach dem Scan: 61.797.883.970 Bytes</li>
 </ul>
 Na ja ca. 5 Tage, um das Repository zu scannen scheint mir jetzt ein wenig viel. Vor allem, wenn ich mir den Durschnittswert anschaue.

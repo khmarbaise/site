@@ -62,4 +62,4 @@ Eine neue Release von <a href="http://www.supose.org/wiki/supose">SupoSE</a> ist
 </ul>
 <br/>
 
-Das <a href="http://www.supose.org/attachments/download/60/supose-0.6.2-bin-unix.tar.gz">Unix binary</a> lÃ¤uft auf Linux als auch auf Mac OS X. FÃ¼r <a href="http://www.supose.org/attachments/download/59/supose-0.6.2-bin.zip">Windows</a> ist selbstverstÃ¤ndlich auch gesorgt.
+Das <a href="http://www.supose.org/attachments/download/60/supose-0.6.2-bin-unix.tar.gz">Unix binary</a> läuft auf Linux als auch auf Mac OS X. Für <a href="http://www.supose.org/attachments/download/59/supose-0.6.2-bin.zip">Windows</a> ist selbstverständlich auch gesorgt.

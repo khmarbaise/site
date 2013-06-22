@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "GroÃŸer Test mit SupoSE die II."
+title: "Großer Test mit SupoSE die II."
 date: 2010-05-16 12:04:41
 tags: SKM,Neuigkeiten,SupoSE
 categories: SKM,Neuigkeiten,SupoSE
 post-type: blog
 ---
-Nach der Beurteilung der Test Ergebnisse insbesondere der Laufzeiten habe ich mir <a href="http://www.supose.org/repositories/revision/supose/479">einige optimierungen fÃ¼r SupoSE Ã¼berlegt</a> und nun in einem Test auf die gleichen Test Daten losgelassen. Wichtig dabei ist zum einen, dass die Geschwindigkeit enorm gesteigert wurde (aber warten wir mal das Ende ab) und dass hier mit den Default Einstellungen fÃ¼r den Speicher gearbeitet wurde (-Xms512m -Xmx1024m). 
+Nach der Beurteilung der Test Ergebnisse insbesondere der Laufzeiten habe ich mir <a href="http://www.supose.org/repositories/revision/supose/479">einige optimierungen für SupoSE überlegt</a> und nun in einem Test auf die gleichen Test Daten losgelassen. Wichtig dabei ist zum einen, dass die Geschwindigkeit enorm gesteigert wurde (aber warten wir mal das Ende ab) und dass hier mit den Default Einstellungen für den Speicher gearbeitet wurde (-Xms512m -Xmx1024m). 
 
 <ul>
   <li>
@@ -16,7 +16,7 @@ Nach der Beurteilung der Test Ergebnisse insbesondere der Laufzeiten habe ich mi
      </ul>
   </li>
 </ul>
-Das heiÃŸt nach bisheriger Ãœbersicht dass innerhalb von weniger als 16 Stunden schon Ã¼ber 700.000 Revisions gescanned worden sind.<br/>
+Das heißt nach bisheriger Übersicht dass innerhalb von weniger als 16 Stunden schon über 700.000 Revisions gescanned worden sind.<br/>
 <br/>
 <strong>Update: 19:32 Uhr. Alle 94 Indizes gemerged (3877 Sekunden)</strong>
 <br/>
@@ -33,4 +33,4 @@ Das heiÃŸt nach bisheriger Ãœbersicht dass innerhalb von weniger als 16 Stun
 <br/>
 <br/>
 <br/>
-Zusammenfassung des Ganzen. Zum einen ist nun die vollstÃ¤ndige Zeit zur Indizierung etc. auf unter 24 Stunden gefallen. Nachteil ist derzeit, dass der Plattenplatz Bedarf auf ca. 110 <a href="http://de.wikipedia.org/wiki/Bin%C3%A4rpr%C3%A4fix">GiB</a> zwischenzeitlich gestiegen ist. Die einzelnen Indizes habe ich derzeit noch nicht automatisch gelÃ¶scht. Das heiÃŸt, dass hier nochmal ca. 55 GiB dazu kommen.
+Zusammenfassung des Ganzen. Zum einen ist nun die vollständige Zeit zur Indizierung etc. auf unter 24 Stunden gefallen. Nachteil ist derzeit, dass der Plattenplatz Bedarf auf ca. 110 <a href="http://de.wikipedia.org/wiki/Bin%C3%A4rpr%C3%A4fix">GiB</a> zwischenzeitlich gestiegen ist. Die einzelnen Indizes habe ich derzeit noch nicht automatisch gelöscht. Das heißt, dass hier nochmal ca. 55 GiB dazu kommen.

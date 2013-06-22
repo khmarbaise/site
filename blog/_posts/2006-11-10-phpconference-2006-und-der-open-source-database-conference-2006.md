@@ -6,4 +6,4 @@ tags: Neuigkeiten
 categories: Neuigkeiten
 post-type: blog
 ---
-Die von mir gehaltenen VortrÃ¤ge sind nun <a href="http://www.soebes.de/public/lectures.de.html"  title="online.">online</a>.
+Die von mir gehaltenen Vorträge sind nun <a href="http://www.soebes.de/public/lectures.de.html"  title="online.">online</a>.

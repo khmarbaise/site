@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screencasts Ã¼ber Redmine Teil I+II"
+title: "Screencasts über Redmine Teil I+II"
 date: 2009-02-18 21:49:51
 tags: Neuigkeiten,Redmine
 categories: Neuigkeiten,Redmine

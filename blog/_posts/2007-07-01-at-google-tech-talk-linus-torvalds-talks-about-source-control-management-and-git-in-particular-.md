@@ -6,5 +6,5 @@ tags: SKM,Neuigkeiten,GIT
 categories: SKM,Neuigkeiten,GIT
 post-type: blog
 ---
-Ein <a href="http://codicesoftware.blogspot.com/2007/05/linus-torvalds-on-git-and-scm.html">technischer Vortrag</a> von Linus Torvalds Ã¼ber GIT
+Ein <a href="http://codicesoftware.blogspot.com/2007/05/linus-torvalds-on-git-and-scm.html">technischer Vortrag</a> von Linus Torvalds über GIT
 

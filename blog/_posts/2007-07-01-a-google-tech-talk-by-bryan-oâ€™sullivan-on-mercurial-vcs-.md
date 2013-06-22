@@ -6,5 +6,5 @@ tags: SKM,Neuigkeiten,Mercurial
 categories: SKM,Neuigkeiten,Mercurial
 post-type: blog
 ---
-Ein <a href="http://video.google.com/videoplay?docid=-7724296011317502612&hl=en">technischer Vortrag</a> Ã¼ber Mercurial und ein weiterer Ã¼ber die <a href="http://video.google.com/videoplay?docid=5037120727513519915">Erweiterung von Mercurial.
+Ein <a href="http://video.google.com/videoplay?docid=-7724296011317502612&hl=en">technischer Vortrag</a> über Mercurial und ein weiterer über die <a href="http://video.google.com/videoplay?docid=5037120727513519915">Erweiterung von Mercurial.
 

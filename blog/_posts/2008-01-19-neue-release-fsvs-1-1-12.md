@@ -6,4 +6,4 @@ tags: SKM,Neue Versionen,Subversion
 categories: SKM,Neue Versionen,Subversion
 post-type: blog
 ---
-Eine neue Release des <a href="http://fsvs.tigris.org/"  title="http://fsvs.tigris.org/">FSVS</a>. Damit erhÃ¤lt es voll UnterstÃ¼tzung fÃ¼r copyfrom Relationen. Einige Fehler wurden korrigiert. Die wichtigsten im Zusammenhang mit HTTP und HTTPS URLs.
+Eine neue Release des <a href="http://fsvs.tigris.org/"  title="http://fsvs.tigris.org/">FSVS</a>. Damit erhält es voll Unterstützung für copyfrom Relationen. Einige Fehler wurden korrigiert. Die wichtigsten im Zusammenhang mit HTTP und HTTPS URLs.

@@ -6,4 +6,4 @@ tags: Java,SKM,Subversion
 categories: Java,SKM,Subversion
 post-type: blog
 ---
-Die neue Release der <a href="http://www.svnkit.com"  title="SVNKit">Java Bibliothek SVNKit</a> erscheint nun in der Release 1.1.7, um die UnterstÃ¼tzung fÃ¼r den Zugriff auf Subversion 1.5 Server via svn Protokoll zu ermÃ¶glichen. Ein Update der JNA Bibliothek und einige <a href="http://svn.svnkit.com/repos/svnkit/tags/1.1.7/changelog.txt"  title="ChangeLog">weitere Details</a>.
+Die neue Release der <a href="http://www.svnkit.com"  title="SVNKit">Java Bibliothek SVNKit</a> erscheint nun in der Release 1.1.7, um die Unterstützung für den Zugriff auf Subversion 1.5 Server via svn Protokoll zu ermöglichen. Ein Update der JNA Bibliothek und einige <a href="http://svn.svnkit.com/repos/svnkit/tags/1.1.7/changelog.txt"  title="ChangeLog">weitere Details</a>.

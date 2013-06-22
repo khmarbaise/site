@@ -6,4 +6,4 @@ tags: SKM,Neue Versionen,Subversion
 categories: SKM,Neue Versionen,Subversion
 post-type: blog
 ---
-Es ist so weit, ein <a href="http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137211"  title="Announcement">dritter Release Candiate von der SVN 1.5.</a> ist erschienen.....Auch fÃ¼r diesen RC3 gilt, dass der so gut wie mÃ¶glich getestet werden soll, <strong>aber bitte nicht fÃ¼r den produktiven Betrieb einsetzen</strong>.  Zu beziehen ist der <a href="http://orac.ece.utexas.edu/pub/svn/1.5.0-rc3/"  title="Download RC3">RC3 hier</a>.
+Es ist so weit, ein <a href="http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137211"  title="Announcement">dritter Release Candiate von der SVN 1.5.</a> ist erschienen.....Auch für diesen RC3 gilt, dass der so gut wie möglich getestet werden soll, <strong>aber bitte nicht für den produktiven Betrieb einsetzen</strong>.  Zu beziehen ist der <a href="http://orac.ece.utexas.edu/pub/svn/1.5.0-rc3/"  title="Download RC3">RC3 hier</a>.

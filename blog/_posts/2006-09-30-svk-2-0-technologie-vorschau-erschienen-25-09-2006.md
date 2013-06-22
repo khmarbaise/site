@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten
 categories: SKM,Neuigkeiten
 post-type: blog
 ---
-Chia-Liang Kao hat auf der Entwickler Liste des <a href="http://svk.elixus.org"  title="SVK Tool">SVK Tools (Verteilte Versionskontrolle)</a> bekannt gegeben, dass ein technologie Vorschau vorliegt. Die Release 2.0 wurde fÃ¼r Weihnachten angekÃ¼ndigt.
+Chia-Liang Kao hat auf der Entwickler Liste des <a href="http://svk.elixus.org"  title="SVK Tool">SVK Tools (Verteilte Versionskontrolle)</a> bekannt gegeben, dass ein technologie Vorschau vorliegt. Die Release 2.0 wurde für Weihnachten angekündigt.

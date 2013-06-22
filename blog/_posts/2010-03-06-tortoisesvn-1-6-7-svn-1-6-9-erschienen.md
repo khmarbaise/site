@@ -6,4 +6,4 @@ tags: SKM,Neue Versionen,Subversion
 categories: SKM,Neue Versionen,Subversion
 post-type: blog
 ---
-Es ist eine neue Release von <a href="http://tortoisesvn.net/">TortoiseSVN 1.6.7</a> erschienen, der gegen Subversion 1.6.9 gelinkt ist. Der <a href="http://tortoisesvn.tigris.org/ChangeLog.txt">ChangeLog</a> gibt genau darÃ¼ber auskunft was geÃ¤ndert wurde. In den <a href="http://tortoisesvn.tigris.org/tsvn_1.6_releasenotes.html">Release Notes</a> ist beschrieben welche Ã„nderungen in dieser Release vorgenommen wurden.
+Es ist eine neue Release von <a href="http://tortoisesvn.net/">TortoiseSVN 1.6.7</a> erschienen, der gegen Subversion 1.6.9 gelinkt ist. Der <a href="http://tortoisesvn.tigris.org/ChangeLog.txt">ChangeLog</a> gibt genau darüber auskunft was geändert wurde. In den <a href="http://tortoisesvn.tigris.org/tsvn_1.6_releasenotes.html">Release Notes</a> ist beschrieben welche Änderungen in dieser Release vorgenommen wurden.

@@ -6,7 +6,7 @@ tags: Neuigkeiten,Redmine
 categories: Neuigkeiten,Redmine
 post-type: blog
 ---
-Ich habe die Schritte zur Installation von <a href="http://www.redmine.org">Redmine</a> einmal aufgefÃ¼hrt, damit man sieht wie einfach es ist Redmine zu installieren. Ich habe mich dafÃ¼r entschieden Redmine auf einer MySQL zu betreiben.
+Ich habe die Schritte zur Installation von <a href="http://www.redmine.org">Redmine</a> einmal aufgeführt, damit man sieht wie einfach es ist Redmine zu installieren. Ich habe mich dafür entschieden Redmine auf einer MySQL zu betreiben.
 <ul>
 <li>Installation MySQL 5.0</li>
 <li>Installation Ruby (1.8.6)</li>

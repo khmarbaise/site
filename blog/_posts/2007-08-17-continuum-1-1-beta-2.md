@@ -6,4 +6,4 @@ tags: Java,Neuigkeiten,Neue Versionen,BM
 categories: Java,Neuigkeiten,Neue Versionen,BM
 post-type: blog
 ---
-Das <a href="http://maven.apache.org/continuum">Build System Continuum</a> liegt nun in einer Ã¼berarbeiteten neuen Version vor. Die Ã„nderungen werden im <a href="http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10540&styleName=Html&version=13606">ChangeLog dokumentiert</a>.
+Das <a href="http://maven.apache.org/continuum">Build System Continuum</a> liegt nun in einer überarbeiteten neuen Version vor. Die Änderungen werden im <a href="http://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10540&styleName=Html&version=13606">ChangeLog dokumentiert</a>.

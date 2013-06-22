@@ -6,4 +6,4 @@ tags: Java,Neue Versionen
 categories: Java,Neue Versionen
 post-type: blog
 ---
-Die objektorientiere Datenbank <a href="http://www.db4o.com" title="db4o">db4o</a> ist in einer neuen Release fÃ¼r Java erschienen. Die Release 6.0 (Java) kommt mit einigen Verbesserungen bzgl. der Performance daher.
+Die objektorientiere Datenbank <a href="http://www.db4o.com" title="db4o">db4o</a> ist in einer neuen Release für Java erschienen. Die Release 6.0 (Java) kommt mit einigen Verbesserungen bzgl. der Performance daher.

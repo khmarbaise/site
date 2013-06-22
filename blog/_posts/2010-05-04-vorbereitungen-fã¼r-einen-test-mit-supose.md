@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Vorbereitungen fÃ¼r einen Test mit SupoSE"
+title: "Vorbereitungen für einen Test mit SupoSE"
 date: 2010-05-04 21:41:00
 tags: SKM,Subversion,Test,SupoSE
 categories: SKM,Subversion,Test,SupoSE
 post-type: blog
 ---
-Im Rahmen der Test Vorbereitungen fÃ¼r <a href="http://www.supose.org">SupoSE</a> wollte ich mir eine groÃŸes Repository besorgen, damit ich mal das Verhalten mit einem "richtigen" repository testen kann und auch mal ein paar Anhaltspunkte fÃ¼r Zeiten bzgl. eines entsprechenden Repositories bekomme. <br/>
+Im Rahmen der Test Vorbereitungen für <a href="http://www.supose.org">SupoSE</a> wollte ich mir eine großes Repository besorgen, damit ich mal das Verhalten mit einem "richtigen" repository testen kann und auch mal ein paar Anhaltspunkte für Zeiten bzgl. eines entsprechenden Repositories bekomme. <br/>
 <br/>
-Danke der netten Mithilfe der <a href="http://www.apache.org">Apache Software Foundation</a>, gibt es die einfache MÃ¶glichkeit einen <a href="http://svn-master.apache.org/dump/">VollstÃ¤ndigen Dump des Repositories</a> zu erhalten, da ich nicht mit einem svnsync arbeiten wollte, da das zu <a href="https://issues.apache.org/jira/browse/INFRA-2606">groÃŸe kontinuierliche Last erzeugt hÃ¤tte</a>.<br/>
+Danke der netten Mithilfe der <a href="http://www.apache.org">Apache Software Foundation</a>, gibt es die einfache Möglichkeit einen <a href="http://svn-master.apache.org/dump/">Vollständigen Dump des Repositories</a> zu erhalten, da ich nicht mit einem svnsync arbeiten wollte, da das zu <a href="https://issues.apache.org/jira/browse/INFRA-2606">große kontinuierliche Last erzeugt hätte</a>.<br/>
 <br/>
 Also habe ich den Dump File auf einen Server gelegt und angefangen das Repository per svnadmin load repository <dumpfile zu laden.<br/>
 <br/>
@@ -25,7 +25,7 @@ Download des Dump-Files (930.176 Revs). 10 <a href="http://de.wikipedia.org/wiki
 </br>
 svn-asf-public-r0:930176.7z (10.430.991.745 Bytes) ausgepackt 31.492.319.472 Bytes
 
-Test auf dem  Core I7 ausgefÃ¼hrt:
+Test auf dem  Core I7 ausgeführt:
 </br>
 svnadmin load
 </br>
@@ -36,7 +36,7 @@ svnadmin load
   <li>Stopped:
     <ul><li>Apr 25 14:05 repos/db/current</li></ul>
   </li>
-  <li>BenÃ¶tigte Zeit:
+  <li>Benötigte Zeit:
     <ul><li>12 Tage 16 Stunden 39 Minuten</li></ul>
   </li>
   <li>Repository size nach load
@@ -56,7 +56,7 @@ svnadmin load
   <li>Stopped:
     <ul><li>2. Mai 00:25 repos/db/current</li></ul>
   </li>
-  <li>BenÃ¶tigte Zeit:
+  <li>Benötigte Zeit:
     <ul><li>11 Tage 1 Stunde und 14 Minuten</li></ul>
   </li>
   <li>Repository size nach load

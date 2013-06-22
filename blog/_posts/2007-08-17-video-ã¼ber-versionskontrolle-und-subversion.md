@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video Ã¼ber Versionskontrolle und Subversion"
+title: "Video über Versionskontrolle und Subversion"
 date: 2007-08-17 19:24:46
 tags: SKM,Neuigkeiten,Subversion
 categories: SKM,Neuigkeiten,Subversion

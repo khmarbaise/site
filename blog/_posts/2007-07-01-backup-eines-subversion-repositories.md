@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Subversion
 categories: SKM,Neuigkeiten,Subversion
 post-type: blog
 ---
-Draconis Software LLC berichtet in Ihrem <a href="http://www.dracoware.com/blog/2007/04/30/backing-up-a-subversion-repository/">Blog</a> Ã¼ber ein Backup fÃ¼r ein Subversion Repository.
+Draconis Software LLC berichtet in Ihrem <a href="http://www.dracoware.com/blog/2007/04/30/backing-up-a-subversion-repository/">Blog</a> über ein Backup für ein Subversion Repository.

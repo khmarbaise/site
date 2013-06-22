@@ -6,5 +6,5 @@ tags: SKM,Neuigkeiten
 categories: SKM,Neuigkeiten
 post-type: blog
 ---
-Mit MolhadoRef einem SCM System, dass die Refactoring Operationen in Eclipse aufzeichnet und somit eine Historie der Ã„nderungen darlegt.
-Eine genaue Beschreibung von <a href="https://netfiles.uiuc.edu/dig/MolhadoRef/molhadoref.html"  title="MolhadoRef">MolhadoRef</a> und der Artikel von <a href="http://www.cs.colorado.edu/events/colloquia/current/dig.html"  title="Danny Dig">Danny Dig</a> gibt genauere Auskunft Ã¼ber die Funktion und das Konzept.
+Mit MolhadoRef einem SCM System, dass die Refactoring Operationen in Eclipse aufzeichnet und somit eine Historie der Änderungen darlegt.
+Eine genaue Beschreibung von <a href="https://netfiles.uiuc.edu/dig/MolhadoRef/molhadoref.html"  title="MolhadoRef">MolhadoRef</a> und der Artikel von <a href="http://www.cs.colorado.edu/events/colloquia/current/dig.html"  title="Danny Dig">Danny Dig</a> gibt genauere Auskunft über die Funktion und das Konzept.

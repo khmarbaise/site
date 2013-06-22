@@ -6,4 +6,4 @@ tags: Java,SKM,Neue Versionen
 categories: Java,SKM,Neue Versionen
 post-type: blog
 ---
-Es gibt eine neue Release von <a href="http://svnkit.com/"  title="SVN Kit">SVN Kit</a>. Es wurden einige Bug fixes behoben und eine interaktive Password Eingabe wurde zum Kommandozeilen Client hinzugeÃ¼fgt. Weiterhin wurde eine system weite Konfigurationsdatei hinzugefÃ¼gt.
+Es gibt eine neue Release von <a href="http://svnkit.com/"  title="SVN Kit">SVN Kit</a>. Es wurden einige Bug fixes behoben und eine interaktive Password Eingabe wurde zum Kommandozeilen Client hinzugeüfgt. Weiterhin wurde eine system weite Konfigurationsdatei hinzugefügt.

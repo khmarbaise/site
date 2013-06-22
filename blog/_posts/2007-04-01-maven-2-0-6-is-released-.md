@@ -6,4 +6,4 @@ tags: Java,Neue Versionen,BM
 categories: Java,Neue Versionen,BM
 post-type: blog
 ---
-Es gibt eine neue Version von Maven, dem Build Tool. Die aktuellste Version kann unter <a href="http://maven.apache.org/download.html"  title="Maven Download">Maven Download</a> herunter geladen werden. Die <a href="http://maven.apache.org/release-notes.html"  title="Release Notes">Release Notes</a> geben genaue Auskunft Ã¼ber die Ã„nderungen.
+Es gibt eine neue Version von Maven, dem Build Tool. Die aktuellste Version kann unter <a href="http://maven.apache.org/download.html"  title="Maven Download">Maven Download</a> herunter geladen werden. Die <a href="http://maven.apache.org/release-notes.html"  title="Release Notes">Release Notes</a> geben genaue Auskunft über die Änderungen.

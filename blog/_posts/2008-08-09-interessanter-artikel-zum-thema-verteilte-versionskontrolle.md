@@ -6,4 +6,4 @@ tags: SKM,DVCS
 categories: SKM,DVCS
 post-type: blog
 ---
-Ich habe einen <a href="http://www.infoq.com/articles/dvcs-guide"  title="Verteilte Versionskontrolle">Artikel zum Thema Verteilte Versionskontrolle</a> gefunden, der sehr interessante Argumente und gegen Argument enthÃ¤lt.
+Ich habe einen <a href="http://www.infoq.com/articles/dvcs-guide"  title="Verteilte Versionskontrolle">Artikel zum Thema Verteilte Versionskontrolle</a> gefunden, der sehr interessante Argumente und gegen Argument enthält.

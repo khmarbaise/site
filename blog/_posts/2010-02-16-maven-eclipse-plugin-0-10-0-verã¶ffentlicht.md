@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven Eclipse Plugin 0.10.0 verÃ¶ffentlicht"
+title: "Maven Eclipse Plugin 0.10.0 veröffentlicht"
 date: 2010-02-16 10:38:02
 tags: Java,Neuigkeiten,Neue Versionen,Maven
 categories: Java,Neuigkeiten,Neue Versionen,Maven

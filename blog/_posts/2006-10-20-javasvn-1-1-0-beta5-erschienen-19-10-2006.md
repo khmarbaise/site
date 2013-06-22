@@ -6,4 +6,4 @@ tags: Java,SKM,Neue Versionen
 categories: Java,SKM,Neue Versionen
 post-type: blog
 ---
-TMate Software gibt bekannt, dass JavaSVN 1.1.0.beta5 verÃ¶ffentlicht wurde und unter <a href="http://tmate.org"  title="TMate Software">http://tmate.org</a> zum Download bereit steht.
+TMate Software gibt bekannt, dass JavaSVN 1.1.0.beta5 veröffentlicht wurde und unter <a href="http://tmate.org"  title="TMate Software">http://tmate.org</a> zum Download bereit steht.

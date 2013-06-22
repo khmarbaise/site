@@ -6,5 +6,5 @@ tags: SKM,Neuigkeiten,Neue Versionen,Subversion
 categories: SKM,Neuigkeiten,Neue Versionen,Subversion
 post-type: blog
 ---
-Die <a href="http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2251">Subversion Community</a> hat bekannt gegeben, dass Subversion 1.5.6 zur VerfÃ¼gung steht. Im <a href="http://svn.collab.net/repos/svn/tags/1.5.6/CHANGES">ChangeLog</a> kann genau nachgelesen werden welche Ã„nderungen im Detail gemacht wurden. 
-Die <a href="http://subversion.tigris.org/svn_1.5_releasenotes.html">Release Notes</a> geben auskunft darÃ¼ber was in der Release 1.5 etc. neuen hinzu gekommen ist.
+Die <a href="http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2251">Subversion Community</a> hat bekannt gegeben, dass Subversion 1.5.6 zur Verfügung steht. Im <a href="http://svn.collab.net/repos/svn/tags/1.5.6/CHANGES">ChangeLog</a> kann genau nachgelesen werden welche Änderungen im Detail gemacht wurden. 
+Die <a href="http://subversion.tigris.org/svn_1.5_releasenotes.html">Release Notes</a> geben auskunft darüber was in der Release 1.5 etc. neuen hinzu gekommen ist.

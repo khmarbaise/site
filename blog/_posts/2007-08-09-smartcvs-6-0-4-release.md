@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen,CVS
 categories: SKM,Neuigkeiten,Neue Versionen,CVS
 post-type: blog
 ---
-Es gibt ein Update vom <a href="http://www.syntevo.com/smartcvs/">SmartCVS Client</a>. Die <a href="http://www.syntevo.com/smartcvs/changelog.txt">ChangeLog</a> gibt Ã¼ber die Erweiterungen und Ã„nderungen Auskunf.
+Es gibt ein Update vom <a href="http://www.syntevo.com/smartcvs/">SmartCVS Client</a>. Die <a href="http://www.syntevo.com/smartcvs/changelog.txt">ChangeLog</a> gibt über die Erweiterungen und Änderungen Auskunf.

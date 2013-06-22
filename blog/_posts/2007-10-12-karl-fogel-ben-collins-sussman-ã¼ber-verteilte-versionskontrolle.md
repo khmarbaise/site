@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karl Fogel, Ben Collins-Sussman Ã¼ber verteilte Versionskontrolle"
+title: "Karl Fogel, Ben Collins-Sussman über verteilte Versionskontrolle"
 date: 2007-10-12 09:50:53
 tags: SKM,Neuigkeiten
 categories: SKM,Neuigkeiten

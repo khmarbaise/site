@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen,Monotone
 categories: SKM,Neuigkeiten,Neue Versionen,Monotone
 post-type: blog
 ---
-Es gibt von <a href="http://monotone.ca/"  title="Monotone">Monotone</a> eine neue Release 0.44. Der <a href="http://monotone.ca/NEWS"  title="ChangeLog">ChangeLog</a> genau Auskunft Ã¼ber die Neuerungen.
+Es gibt von <a href="http://monotone.ca/"  title="Monotone">Monotone</a> eine neue Release 0.44. Der <a href="http://monotone.ca/NEWS"  title="ChangeLog">ChangeLog</a> genau Auskunft über die Neuerungen.
