@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen
 categories: SKM,Neuigkeiten,Neue Versionen
 post-type: blog
 ---
-Es gibt eine neue Version von Bazaar und zwar 0.14. Die Version ist auf der <a href="http://bazaar-vcs.org/Download"  title="http://bazaar-vcs.org">DownloadSeite<a> zu erhalten.
+Es gibt eine neue Version von Bazaar und zwar 0.14. Die Version ist auf der [DownloadSeite](http://bazaar-vcs.org/Download DownloadSeite) zu erhalten.

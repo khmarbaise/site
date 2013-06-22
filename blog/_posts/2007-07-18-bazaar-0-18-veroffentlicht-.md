@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen
 categories: SKM,Neuigkeiten,Neue Versionen
 post-type: blog
 ---
-Es ist die Release 0.18 des <a href="http://bazaar-vcs.org/">Bazaar VCS Tool</a> erschienen. 
+Es ist die Release 0.18 des [Bazaar VCS Tool](http://bazaar-vcs.org/) erschienen. 

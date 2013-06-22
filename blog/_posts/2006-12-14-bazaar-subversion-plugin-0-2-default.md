@@ -6,5 +6,7 @@ tags: SKM,Neuigkeiten,Neue Versionen
 categories: SKM,Neuigkeiten,Neue Versionen
 post-type: blog
 ---
-Vom Bazaar Plug fÃ¼r Subversion gibt es nun wieder eine neue Version.
-Es wurden einige wichtige Bugs gefixed usw. Genaueres kann auf der <a href="http://bazaar-vcs.org/"  title="http://bazaar-vcs.org/">Homepage</a> nach geselen werden.
+Vom Bazaar Plug für Subversion gibt es nun wieder eine neue Version.
+
+Es wurden einige wichtige Bugs gefixed usw. Genaueres kann auf der [Homepage](http://bazaar-vcs.org/ Homepage) nach geselen werden.
+

@@ -6,4 +6,7 @@ tags: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar
 categories: SKM,Neuigkeiten,Neue Versionen,DVCS,Bazaar
 post-type: blog
 ---
-Es gibt eine <a href="https://launchpad.net/bzr/+announcement/6837">neue Release 2.2.1<a> von <a href="http://bazaar-vcs.org">Bazaar</a>. Die entsprechenden Downloads fÃ¼r <a href="https://launchpad.net/bzr/2.2/2.2.1/">Linux, Mac und Windows</a> sind auch verfÃ¼gbar.
+Es gibt eine [neue Release 2.2.1](https://launchpad.net/bzr/+announcement/6837) von 
+[Bazaar](http://bazaar-vcs.org). Die entsprechenden Downloads für 
+[Linux, Mac und Windows](https://launchpad.net/bzr/2.2/2.2.1/) 
+sind auch verfügbar.

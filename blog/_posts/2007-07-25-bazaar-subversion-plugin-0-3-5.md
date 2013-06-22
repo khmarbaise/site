@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar
 categories: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar
 post-type: blog
 ---
-Das <a href="http://bazaar-vcs.org/BzrForeignBranches/Subversion?action=show&redirect=BzrSvn">Bazaar Subversion PlugIn</a> wurde an die Bazaar Release 0.18 angepasst.
+Das [Bazaar Subversion PlugIn](http://bazaar-vcs.org/BzrForeignBranches/Subversion?action=show&redirect=BzrSvn) wurde an die Bazaar Release 0.18 angepasst.

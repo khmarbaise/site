@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen
 categories: SKM,Neuigkeiten,Neue Versionen
 post-type: blog
 ---
-Es ist eine neue Release vom dezentralisierten <a href="http://bazaar-vcs.org/">Bazaar Versionskontroll System</a> erschienen. Der Release Candidate 1 enthÃ¤lt performance Verbesserungen einige Bug Fixes und Verbesserungen der Dokumentation.
+Es ist eine neue Release vom dezentralisierten [Bazaar Versionskontroll System](http://bazaar-vcs.org/) erschienen. Der Release Candidate 1 enthält performance Verbesserungen einige Bug Fixes und Verbesserungen der Dokumentation.

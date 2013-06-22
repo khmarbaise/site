@@ -6,4 +6,4 @@ tags: SKM,Neue Versionen,Bazaar
 categories: SKM,Neue Versionen,Bazaar
 post-type: blog
 ---
-Es ist so weit. Die Release 1.0 von <a href="http://bazaar-vcs.org"  title="Bazaar">Bazaar</a> ist erschienen.
+Es ist so weit. Die Release 1.0 von [Bazaar](http://bazaar-vcs.org Bazaar) ist erschienen.

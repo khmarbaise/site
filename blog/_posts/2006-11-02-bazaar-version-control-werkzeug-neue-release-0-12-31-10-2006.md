@@ -6,4 +6,4 @@ tags: SKM,Neue Versionen
 categories: SKM,Neue Versionen
 post-type: blog
 ---
-Es gibt ein Update der verteilten Versionskontrolle <a href="http://bazaar-vcs.org"  title="Bazaar">Bazaar</a>. Genaueres kann auf der Homepage nachgelesen werden.
+Es gibt ein Update der verteilten Versionskontrolle [Bazaar](http://bazaar-vcs.org Bazaar). Genaueres kann auf der Homepage nachgelesen werden.

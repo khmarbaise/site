@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar,Mercurial,GIT
 categories: SKM,Neuigkeiten,Neue Versionen,Subversion,Bazaar,Mercurial,GIT
 post-type: blog
 ---
-Habe durch zufall einen interessanten <a href="http://www.whygitisbetterthanx.com/">Vergleich</a> von Git, Bazaar und Mercurial mit SVN gefunden.
+Habe durch zufall einen interessanten [Vergleich](http://www.whygitisbetterthanx.com/) von Git, Bazaar und Mercurial mit SVN gefunden.

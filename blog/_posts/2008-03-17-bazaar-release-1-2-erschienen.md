@@ -6,4 +6,5 @@ tags: SKM,Neue Versionen,Bazaar
 categories: SKM,Neue Versionen,Bazaar
 post-type: blog
 ---
-Auch von <a href="http://bazaar-vcs.org/"  title="bazaar">Bazaar</a> gibt es nun eine neue Release. Ã„nderungen etc. kÃ¶nnen im <a href="https://launchpad.net/bzr/1.2/1.2/"  title="ChangeLog">ChangeLog</a> nachgelesen werden.
+Auch von [Bazaar](http://bazaar-vcs.org/ Bazaar) gibt es nun eine neue Release. 
+Änderungen etc. können im [ChangeLog](https://launchpad.net/bzr/1.2/1.2/ ChangeLog) nachgelesen werden.
