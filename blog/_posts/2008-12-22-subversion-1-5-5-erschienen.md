@@ -29,6 +29,5 @@ dass nun die <a href="http://svn.collab.net/repos/svn/tags/1.5.5/CHANGES">Releas
    + Korrektur: Fehlerhafter Merge wenn die Zielhistorie wiederherstellungen erhält(r34385, -93)
    + Korrektor: Ungültige Mergeinformationen die bei einem Mergevorgang von einem Unterbaum erzeugt wurden (r34560, -2)
 
-
 + Änderungen für Entwickler:
    + Korrektur: svn_repos_get_logs() Fehler bei verschiedenen Revision Parametern.(r33873, -4)
