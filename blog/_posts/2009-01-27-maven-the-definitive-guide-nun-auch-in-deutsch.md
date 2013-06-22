@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Maven: The Definitive Guide"....nun auch in deutsch"
+title: Maven: The Definitive Guide....nun auch in deutsch
 date: 2009-01-27 16:28:42
 tags: Neuigkeiten,BM,Maven
 categories: Neuigkeiten,BM,Maven
