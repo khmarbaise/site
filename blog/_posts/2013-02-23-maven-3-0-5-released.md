@@ -6,4 +6,5 @@ tags: Neuigkeiten,Neue Versionen,BM,Maven
 categories: Neuigkeiten,Neue Versionen,BM,Maven
 post-type: blog
 ---
-Nach dem nun einige Zeit vergangen ist, gibt es nun eine neue <a href="http://maven.apache.org/docs/3.0.5/release-notes.html">Release von Maven</a>. Der <a href="https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&version=19088">ChangeLog ist in diesem Falle recht Ã¼bersichtlich</a>.
+Nach dem nun einige Zeit vergangen ist, gibt es nun eine neue 
+[Release von Maven](http://maven.apache.org/docs/3.0.5/release-notes.html). Der [ChangeLog ist in diesem Falle recht Überischtlich](https://jira.codehaus.org/secure/ReleaseNote.jspa?projectId=10500&version=19088).
