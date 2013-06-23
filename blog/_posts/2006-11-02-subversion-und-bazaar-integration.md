@@ -7,5 +7,5 @@ categories: SKM
 post-type: blog
 ---
 Jelmer Vernooij stellt in seinem Blog eine Integration der verteilten Versionskontrolle
-[Bazaar](http://jelmer.vernstok.nl/blog/index.php?/categories/8-bzr Bazaar) und Subversion dar, womit es möglich ist Bazaar 
+[Bazaar](http://jelmer.vernstok.nl/blog/index.php?/categories/8-bzr "Bazaar") und Subversion dar, womit es möglich ist Bazaar 
 branches in Subversion ein zu checken.
