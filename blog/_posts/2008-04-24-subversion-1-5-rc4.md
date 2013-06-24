@@ -6,4 +6,6 @@ tags: SKM,Neuigkeiten,Neue Versionen,Subversion
 categories: SKM,Neuigkeiten,Neue Versionen,Subversion
 post-type: blog
 ---
-Es ist so weit, ein <a href="http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137752"  title="Announcement">vierter Release Candiate von der SVN 1.5.</a> ist erschienen.....Auch für diesen RC4 gilt, dass der so gut wie möglich getestet werden soll, <strong>aber bitte nicht für den produktiven Betrieb einsetzen</strong>.  Zu beziehen ist der <a href="http://subversion.tigris.org/servlets/ProjectDocumentList?folderID=1079&expandFolder=1079&folderID=0"  title="Download RC4">RC4 hier</a>.
+Es ist so weit, ein [vierter Release Candiate von der SVN 1.5.](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137752 "vierter Release Candiate von der SVN 1.5.") 
+ist erschienen.....Auch für diesen RC4 gilt, dass der so gut wie möglich getestet werden soll, **aber bitte nicht für den produktiven Betrieb einsetzen**.  
+Zu beziehen ist der [RC4 hier](http://subversion.tigris.org/servlets/ProjectDocumentList?folderID=1079&expandFolder=1079&folderID=0 "RC4 hier").
