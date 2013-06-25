@@ -6,12 +6,13 @@ tags: Java,SKM,Neue Versionen,Subversion
 categories: Java,SKM,Neue Versionen,Subversion
 post-type: blog
 ---
-Das <a href="http://www.svnkit.com"  title="SVNKit">SVNKit Team</a>, hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität <a href="http://www.nabble.com/-ANN--SVNKit-1.2.0-Beta2-is-available-to18239411.html"  title="Announcement">heraus gebracht</a>.
-<br/>
+Das [SVNKit Team](http://www.svnkit.com "SVNKit Team"), hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität 
+[heraus gebracht](http://www.nabble.com/-ANN--SVNKit-1.2.0-Beta2-is-available-to18239411.html "heraus gebracht").
+
 SVNKit ist eine reine Java Bibliothek, die es ermöglicht alle Funktionen, die auch Subversion bietet mithilfe von Java auszuführen, aber dazu keine Subversion installation benötigt.
-<br/>
-Neuigkeiten in SVNKit 1.2.0 Beta2<ul>
-<li>Unterstützung für fast aller Subversion 1.5.0 Features</li>
-<li>Vollständige Implementation der Subversion JavaHL API</li>
-<li>Signifikante Verbesserung des Java Subversion Command line Clients.</li>
-</ul>
+
+Neuigkeiten in SVNKit 1.2.0 Beta2
++ Unterstützung für fast aller Subversion 1.5.0 Features
++ Vollständige Implementation der Subversion JavaHL API
++ Signifikante Verbesserung des Java Subversion Command line Clients.
+
