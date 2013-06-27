@@ -6,4 +6,4 @@ tags: SKM,Neuigkeiten,Subversion
 categories: SKM,Neuigkeiten,Subversion
 post-type: blog
 ---
-Es gibt ein <a href="http://showmedo.com/videos/series?name=bfNi2X3Xg">Video zum Thema Versionskontrolle und Subversion</a>
+Es gibt ein [Video zum Thema Versionskontrolle und Subversion](http://showmedo.com/videos/series?name=bfNi2X3Xg)
