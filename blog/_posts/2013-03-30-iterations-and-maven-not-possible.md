@@ -9,7 +9,7 @@ post-type: blog
 During my experiences with Maven I had a few moments where I wished having some kind of iterations to go over a list of whatever (servers, environments etc.). 
 
 After some thinking about the problem i have decided to write my own plugin which will solve the problem. 
-And now I have created such <a href="http://khmarbaise.github.com/iterator-maven-plugin/">plugin</a>. 
+And now I have created such [plugin][github-iterator-maven-plugin]. 
 Currently the plugin can be used by using it from the <a href="https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660/">staging repository</a>. 
 After some feedback i will release it to Maven central. If you find some problems with the plugin you can 
 create a <a href="https://github.com/khmarbaise/iterator-maven-plugin/issues">ticket on github</a> or write an 
@@ -17,6 +17,7 @@ create a <a href="https://github.com/khmarbaise/iterator-maven-plugin/issues">ti
 
 In this case it will iterator over the given list test,prod and dev and call for every item 
 the <a href="http://maven.apache.org/plugins/maven-assembly-plugin/">maven-assembly-plugin</a>. 
+
 {% highlight xml linenos %}
 <plugin>
   <groupId>com.soebes.maven.plugins</groupId>

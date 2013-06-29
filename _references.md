@@ -12,6 +12,7 @@
 [maven-clean-plugin]: http://maven.apache.org/plugins/maven-clean-plugin/ "The Maven Clean Plugin"
 [maven-compiler-plugin]: http://maven.apache.org/plugins/maven-compiler-plugin/ "The Maven Compiler Plugin"
 [maven-deploy-plugin]: http://maven.apache.org/plugins/maven-deploy-plugin/ "The Maven Deploy Plugin"
+[maven-dependency-plugin]: http://maven.apache.org/plugins/maven-dependeny-plugin/ "The Maven Dependency Plugin"
 [maven-failsafe-plugin]: http://maven.apache.org/surefire/maven-failsafe-plugin/ "The Maven Failsafe Plugin"
 [maven-install-plugin]: http://maven.apache.org/plugins/maven-install-plugin/ "The Maven Install Plugin"
 [maven-resources-plugin]: http://maven.apache.org/plugins/maven-resources-plugin/ "The Maven Resources Plugin"
