@@ -6,11 +6,13 @@ tags: Neuigkeiten,BM,Maven
 categories: Neuigkeiten,BM,Maven
 post-type: blog
 ---
-During my experiences with Maven I had a few moments where I wished having some kind of iterations to go over a list of whatever (servers, environments etc.). 
+During my experiences with Maven I had a few moments where I wished having some kind of iterations to 
+go over a list of whatever (servers, environments etc.). 
 
 After some thinking about the problem i have decided to write my own plugin which will solve the problem. 
 And now I have created such [plugin][github-iterator-maven-plugin]. 
-Currently the plugin can be used by using it from the <a href="https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660/">staging repository</a>. 
+Currently the plugin can be used by using it from the 
+<a href="https://oss.sonatype.org/content/repositories/comsoebesmavenplugins-660/">staging repository</a>. 
 After some feedback i will release it to Maven central. If you find some problems with the plugin you can 
 create a <a href="https://github.com/khmarbaise/iterator-maven-plugin/issues">ticket on github</a> or write an 
 <a href="mailto:mavenplugin@soebes.de">email to me</a>. You can use the plugin like the following:
