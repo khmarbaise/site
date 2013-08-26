@@ -1,36 +1,15 @@
 ---
-layout: default
+layout: post
 title: The Blog
 ---
 
-<div id="home">
-  <h1>My Blog</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      {% if post.post-type == 'blog' %}
-        <li>
-            <span>{{ post.date | date_to_string }}</span>
-            {{ post.excerpt }}<a href="{{ post.url }}">&nbsp;mehr lesen...</a>
-        </li>
-      {% endif %}
-      {{ tag_cloud }}
-    {% endfor %}
-  </ul>
-</div>
-
-<h2>Archive</h2>
- <ul class="list-type2">
-	{% for year in site.years %}                                                                                    
-	<li>{{ year.first.first.date | date: "%Y" }}
-		<ul>
-			{% for month in year %}
-				{% for post in month %}
-      					{% if post.post-type == 'blog' %}
-						<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      					{% endif %}
-				{% endfor %}
-			{% endfor %}                                                                                                
-		</ul>
-	</li>
-	{% endfor %}
+<ul class="posts">
+  {% for post in site.posts %}
+    {% if post.post-type == 'blog' %}
+            <h2><a href="{{ post.url }}">{{ post.date | date_to_string }} {{ post.title }}</a></h2>
+            {{ post.excerpt }}
+    {% endif %}
+    {{ tag_cloud }}
+  {% endfor %}
 </ul>
+

@@ -1,9 +1,94 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+	<head>
+		<title>SoEBeS .:: SoftwareEntwicklung Beratung Schulung ::: Blog</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- Fuegen Sie hier ihre Meta-Daten ein -->
 
-<div id="post">
+		<link href="/css/soebes.css" rel="stylesheet" type="text/css"/>
+		<!--[if lte IE 7]>
+		<link href="css/explorer/iehacks_3col_vlines.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+	</head>
+
+	<body>
+		<div id="page_margins">
+		<div id="page" class="hold_floats">
+
+		<div id="header">
+			<div id="topnav">
+				<!-- Start: Skiplink-Navigation -->
+				<a class="skip" href="#navigation" title="Direkt zur Navigation springen">Zur Navigation springen</a>
+				<a class="skip" href="#content" title="Direkt zum Inhalt springen">Zum Inhalt springen</a>	
+				<!-- Ende: Skiplink-Navigation -->
+			</div>
+			<img src="/images/weblogo.gif" alt="SoftwareEntwicklung Beratung Schulung"/>
+		</div>
+
+		<!-- #nav: Hauptnavigation -->
+		<div id="nav">
+			<a id="navigation" name="navigation"></a> <!-- Skiplink-Anker: Navigation -->
+			<div id="nav_main">
+				<ul>
+					<li><a href="/index.html">Startseite</a></li>
+					<li><a href="se.html">SoftwareEntwicklung</a></li>
+					<li><a href="beratung.html">Beratung</a></li>
+					<li><a href="schulung.html">Schulung</a></li>
+					<li id="current"><a href="/blog/index.html">Blog</a></li>
+					<li><a href="/impressum/index.html">Impressum</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- #nav: - Ende -->
+
+		<!-- #main: Beginn Inhaltsbereich -->
+		<div id="main">
+		<a id="content" name="content"></a> <!-- Skiplink-Anker: Content -->
+
+		<!-- #col1: Erste Float-Spalte des Inhaltsbereiches -->
+			<div id="col1">
+			  <div id="col1_content" class="clearfix">
+
+				<ul id="submenu">
+					<li id="title">Blog</li>
+					<li><a href="/blog/index.html">Blog</a></li>
+					<li><a href="/blog/archive.html">Archive</a></li>
+				</ul> 
+
+			  </div>
+			</div>
+		<!-- #col1: - Ende -->
+
+		<!-- #col2: zweite Flaot-Spalte des Inhaltsbereiches -->
+			<div id="col2">
+			  <div id="col2_content" class="clearfix">
+<!--
+				<h2>Spalte #col2</h2>
+				<p>...</p>
+-->
+			  </div>
+			</div>
+		<!-- #col2: - Ende -->
+
+		<!-- #col3: Statische Spalte des Inhaltsbereiches -->
+			<div id="col3">
+				<div id="col3_content" class="clearfix">
 {{ content }}
-</div>
+				</div> <!-- IE Column Clearing -->
+			<div id="ie_clearing">&nbsp;</div>
+			<!-- Ende: IE Column Clearing -->
+
+		</div>
+		<!-- #col2: - Ende -->
+
+		</div>
+		<!-- #main: - Ende -->
+
+		<!-- #Footer: Beginn Fusszeile -->
+		<div id="footer">&copy; 2004-2013 SoftwareEntwicklung Beratung Schulung</div>
+		<!-- #Footer: Ende -->
+		</div>
+		</div>
+	</body>
+</html>
