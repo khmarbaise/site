@@ -17,12 +17,13 @@ Domains <a href="http://www.soebes.de">www.soebes.de</a>,
 laut dem <a href="http://netlaw.de/gesetze/tdg.htm" target="_blank" title="Gesetz über die Nutzung von Telediensten (Teledienstgesetz TDG)">§6 des TDG</a> 
 ist:
 
-    SoftwareEntwicklung Beratung Schulung
-    Dipl.Ing.(FH) Karl Heinz Marbaise
-
-    Hauptstr. 177
-    52146 Würselen
-
-    Telefon  :     02405 / 415 893
-    EMail    :     <a href="mailto:gf@soebes.de">gf@soebes.de</a>
-    USt-IdNr.:     DE191347579
+> SoftwareEntwicklung Beratung Schulung<br/>
+> Dipl.Ing.(FH) Karl Heinz Marbaise<br/>
+>
+> Hauptstr. 177<br/>
+> 52146 Würselen<br/>
+>
+>
+> Telefon  :     02405 / 415 893<br/>
+> EMail    :     <a href="mailto:gf@soebes.de">gf@soebes.de</a><br/>
+> USt-IdNr.:     DE191347579

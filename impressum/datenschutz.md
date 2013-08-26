@@ -13,7 +13,7 @@ erfasst:
 
 * Besuchte Seite
 
-* Seite von der Sie gekommen sind (sog. [Referrer](http://de.wikipedia.org/wiki/Referer), wenn vorhanden
+* Seite von der Sie gekommen sind (sog. [Referrer](http://de.wikipedia.org/wiki/Referer)), wenn vorhanden
 
 * Verwendeter Browser
 

@@ -5,7 +5,7 @@ title: Impressum -> Erklärung zu Links
 
 Im Rahmen des vorliegenden Internetauftritts werden an
 vielen Stellen sog. Links gesetzt. Die Verwendung von Links
-ist einer der vitalen Gr&uuml;nde auf denen das Internet
+ist einer der vitalen Gründe auf denen das Internet
 basiert.
 
 Zum Zeitpunkt der Link-Setzung wurden die Links mit
@@ -29,4 +29,4 @@ Belange tangieren. Ein solchen Hinweis, können Sie mir
 auf <a href="mailto:webmaster@soebes.de">elektronischem Weg</a> als
 auch auf postalischem Wege übermitteln.
 
-gez. Software Entwicklungs- und Beratungs Service.
+gez. SoftwareEntwicklung Beratung Schulung
