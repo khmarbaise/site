@@ -1,31 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
-	<head>
-		<title>SoEBeS .:: SoftwareEntwicklung Beratung Schulung ::: Startseite</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-		<!-- Fuegen Sie hier ihre Meta-Daten ein -->
-
-		<link href="/css/soebes.css" rel="stylesheet" type="text/css"/>
-		<!--[if lte IE 7]>
-		<link href="css/explorer/iehacks_3col_vlines.css" rel="stylesheet" type="text/css" />
-		<![endif]-->
-	</head>
-
-	<body>
-		<div id="page_margins">
-		<div id="page" class="hold_floats">
-
-		<div id="header">
-			<div id="topnav">
-				<!-- Start: Skiplink-Navigation -->
-				<a class="skip" href="#navigation" title="Direkt zur Navigation springen">Zur Navigation springen</a>
-				<a class="skip" href="#content" title="Direkt zum Inhalt springen">Zum Inhalt springen</a>	
-				<!-- Ende: Skiplink-Navigation -->
-			</div>
-			<img src="/images/weblogo.gif" alt="SoftwareEntwicklung Beratung Schulung"/>
-		</div>
-
+{% include head.html %}
 		<!-- #nav: Hauptnavigation -->
 		<div id="nav">
 			<a id="navigation" name="navigation"></a> <!-- Skiplink-Anker: Navigation -->
@@ -76,20 +49,4 @@
 			<div id="col3">
 				<div id="col3_content" class="clearfix">
 {{ content }}
-				</div> <!-- IE Column Clearing -->
-			<div id="ie_clearing">&nbsp;</div>
-			<!-- Ende: IE Column Clearing -->
-
-		</div>
-		<!-- #col2: - Ende -->
-
-		</div>
-		<!-- #main: - Ende -->
-
-		<!-- #Footer: Beginn Fusszeile -->
-		<div id="footer">&copy; 2004-2013 SoftwareEntwicklung Beratung Schulung</div>
-		<!-- #Footer: Ende -->
-		</div>
-		</div>
-	</body>
-</html>
+{% include footer.html %}
