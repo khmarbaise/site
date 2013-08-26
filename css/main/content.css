@@ -36,7 +36,7 @@ p { line-height: 1.5em; margin: 0 0 1em 0; }
 
 strong,b { font-weight: bold; }
 em,i { font-style:italic; }
-pre, code {	font-family: "Courier New", Courier, monospace; }
+pre {	font-family: "Courier New", Courier, monospace; }
 address { font-style:normal; line-height: 1.5em; margin: 0 0 1em 0; }
 
 hr { 
@@ -190,7 +190,7 @@ em.directory {
 	background: transparent url(img/icons/dir.gif) no-repeat left;
 }
 
-pre, code {
+pre {
 	display:block;
 	margin: 0 0 1em 1em;
 	padding: 0.5em;
@@ -200,17 +200,6 @@ pre, code {
 	border-left: 8px #ccd solid;
 }
 
-code.css { 
-	background-image: url(../../img/bg_css.gif);
-    background-repeat: no-repeat;
-	background-position: top right;
-}
-
-code.xhtml { 
-	background-image: url(../../img/bg_xhtml.gif);
-	background-repeat: no-repeat;
-	background-position: top right;
-}
 
 /* ### Tabellen ################################################################## */
 
