@@ -11,7 +11,7 @@ Based on a comment on my
 how to add dependencies to the generated artifacts depending on the environment.
 
 The most important problem is: How to get the different artifacts? If you have artifacts which are stored in a Maven Repository like Maven Central it is easy to get them. 
-Just use the [Maven Dependency Plugin][maven-dependency-pugin] to get the artifacts. This means you have to add the following to your pom file: 
+Just use the [Maven Dependency Plugin][maven-dependency-plugin] to get the artifacts. This means you have to add the following to your pom file: 
 
 {% highlight xml linenos %}
 <plugin>
