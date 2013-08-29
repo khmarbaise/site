@@ -20,7 +20,7 @@ body { background: #99a; padding: 10px;	}
 #page_margins {border: 1px #889 solid; min-width: 756px; max-width: 100em; margin:auto;}
 
 /* Formatierung der Kopfbereiches */
-#header { height: 140px; color: #fff; background: #ffffff url(/img/yaml_bg.gif) repeat-x top; }
+#header { height: 140px; color: #fff; background: #ffffff; }
 #header img {margin: 48px 0 0 40px; font-size:208%;}
 
 /* Formatierung der Fuﬂzeile */
