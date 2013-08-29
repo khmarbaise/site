@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Vorträg auf der 3. Subversion Konferenz in München"
+title:  "Vorträge auf der 3. Subversion Konferenz in München"
 categories: Subversion Conference, SupoSE
 post-type: lecture
 ---
 
+#3. Subversion Konferenz#
 
 Auf der 3. Subversion Konferenz hatte ich das Vergn&uuml;gen insgesamt vier Vortr&auml;ge halten zu d&uuml;fen.
 
@@ -15,14 +16,15 @@ Auf der 3. Subversion Konferenz hatte ich das Vergn&uuml;gen insgesamt vier Vort
   Wie kann man das mit SVNKit selbst machen? Der Vortrag soll helfen zum einen die m&ouml;glichen Anwendung von 
   SVNKit zu verstehen aber auch die M&ouml;glichkeit bieten eigene Anwendungen mit Unterst&uuml;tzung von 
   Subversion bzw. SVNKit zu entwickeln. Wie kann z.B. ein Checkin mithilfe von SVNKit durchgef&uuml;hrt 
-  werden oder wie kann ein Change Set ausgelesen werden?</p>
-  <a href="/files/SubConf2009SubversionJava.pdf" target="_blank">Versionierung in Java (PDF)</a>
+  werden oder wie kann ein Change Set ausgelesen werden?
+
+  [Versionierung in Java (PDF)]({{ site.url }}/files/SubConf2009SubversionJava.pdf).
 
 * #To be DVCS or not to be#
   Es gibt unterschiedliche Versionskontroll Werkzeuge die auf unterschiedlichen Ans&auml;tzen beruhen wie z.B. git, 
   mercurial usw. and z.B. auch Subversion aber was sind die Vor- bzw. Nachteile solcher Werkzeuge?
   Welches sind die Grundlegenden Konzepte von verteilten- bzw. zentralisierten Versionskontroll Werkzeugen?
-  <a href="/files/SubConf2009DVCSvsCVCS.pdf" target="_blank">To be DVCS or not to be (PDF)</a>
+  [To be DVCS or not to be (PDF)]({{site.url }}/files/SubConf2009DVCSvsCVCS.pdf)
 
 
 * #Die Qual der Versionen die 2.#
