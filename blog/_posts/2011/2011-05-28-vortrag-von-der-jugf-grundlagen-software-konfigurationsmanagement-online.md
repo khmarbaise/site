@@ -6,4 +6,5 @@ tags: SKM,Neuigkeiten,Neue Versionen
 categories: SKM,Neuigkeiten,Neue Versionen
 post-type: blog
 ---
-Den Vortrag, den ich zum Thema <strong>Grundlagen Software Konfigurationsmanagement</strong> bei der <a href="http://jugf.de/">Java User Group in Frankfurt</a>, halten durfte ist nun <a href="http://www.soebes.de/files/JUGF2011SCM-20110525.pdf">online als PDF</a>.
+Den Vortrag, den ich zum Thema Grundlagen Software Konfigurationsmanagement bei der [Java User Group in Frankfurt](http://jugf.de/), 
+halten durfte ist nun [online als PDF](/files/JUGF2011SCM-20110525.pdf).
