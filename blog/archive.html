@@ -3,7 +3,7 @@ layout: post
 title: Blog Archive
 ---
 <ul class="list-type2">
-	{% for year in site.years|keys|sort %}
+	{% for year in site.years|sort %}
 	<li>{{ year.first.first.date | date: "%Y" }}
 		<ul>
 			{% for month in year %}
